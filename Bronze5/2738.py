@@ -7,4 +7,4 @@ for i in range(size[0]):
     string = ""
     for a in range(size[1]):
         string = string + str(result[a]) + " "
-    print(string)
+    print(string) 
