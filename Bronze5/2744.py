@@ -6,4 +6,4 @@ for i in range(len(s)):
         s[i] = s[i].lower()
     else:
         s[i] = s[i].upper()
-print(''.join(s))
+print(''.join(s)) 
