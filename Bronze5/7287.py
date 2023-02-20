@@ -1,2 +1,1 @@
-print("29")
-print("sc1713")
+print("29\nsc1713")
