@@ -4,7 +4,6 @@ ipt = input().upper()
 char = []
 cnt = []
 
-
 while len(ipt) > 0:
     char.append(ipt[0])
     cnt.append(ipt.count(ipt[0]))
@@ -16,7 +15,5 @@ else:
     print(char[cnt.index(max(cnt))])
     
 
-
-# print(char)
 
 
