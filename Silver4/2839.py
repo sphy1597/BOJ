@@ -9,6 +9,5 @@ while sugar >= 0:
         break
     sugar -= 3
     bonji += 1
-
 if sugar < 0 :
     print(-1)
